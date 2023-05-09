@@ -1,1 +1,1 @@
-# marketing-cs-segmentation-kmeans-with-python
+# Customer Segmentation with Python
